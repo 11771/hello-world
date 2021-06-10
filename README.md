@@ -1,5 +1,8 @@
 # hello-world
-repository cs50
+
+cs50
+
+DATE: 06/10/21
 Hello, I am 11771 (not my actual name).
 I live in the south eastern part of the United States.
 I like learning to code and want to make a computer science/cyber security career where I can code different things.
